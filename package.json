@@ -1,0 +1,19 @@
+{
+  "name": "the-cafe",
+  "version": "1.0.0",
+  "description": "This is cafe POS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Kushal Majumder",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
